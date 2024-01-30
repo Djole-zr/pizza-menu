@@ -1,5 +1,5 @@
 
-# Pizz Menu - React Course (Jonas Schmedtmann)
+# Pizza Menu - React Course (Jonas Schmedtmann)
 
 This is a codealong project from Udemy course "The Ultimate React Course 2024: React, Redux & More" by Jonas Schmedtmann.
 
